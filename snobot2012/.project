@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>snobot2012</name>
-	<comment>Project snobot2012 created by Buildship.</comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
-			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
+	<comment></comment>
+	<projects/>
 	<natures>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<linkedResources>
+		<link>
+			<name>SnobotRobotLibs-src</name>
+			<type>2</type>
+			<location>C:/Users/PJ/GitHub/FIRST_2012/snobot-2012/SnobotRobotLibs/src</location>
+		</link>
+	</linkedResources>
+	<filteredResources/>
 </projectDescription>

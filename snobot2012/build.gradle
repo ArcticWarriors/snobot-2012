@@ -101,7 +101,7 @@ eclipse.classpath.file {
         provider ->
         provider.asNode().findAll { it.@path.contains("jinput") && !it.@path.contains("natives") }.each {
                 def container = it
-                container.appendNode('attributes').appendNode('attribute', [name: 'org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY', value:"snobot2017/build/native_libs"])
+                container.appendNode('attributes').appendNode('attribute', [name: 'org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY', value:"snobot2012/build/native_libs"])
         }
     }
 }
